@@ -59,9 +59,4 @@ This project dives into the Netflix dataset to uncover:
 
 ![Netflix Dashboard](Screenshot%202025-05-17%20230458.png)
 
----
 
-## 📬 Contact
-
-📧 [armanndjoli97@gmail.com](mailto:armanndjoli97@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/arman-ndjoli97)
